@@ -1,0 +1,2762 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>1h Precipitation</VAR>
+<UNIT>mm/1h</UNIT>
+<PERIOD>20211110-20211130</PERIOD>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   8.10256577E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>REF</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   6.30669165E-05 </MEAN>
+ <STDV>  -2.35127664E-15 </STDV>
+ <BIAS>   8.05700663E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.26787799E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   8.07003758E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   13561.2578     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.09002668E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   13649.0547     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.08241661E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   13626.8203     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   8.09587771E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   31333.0000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.80392215E-04 </MEAN_OBS>
+ <STDV_OBS>   3.28872837E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   2.29096948E-03 </MEAN>
+ <STDV>  -3.28984764E-16 </STDV>
+ <BIAS>   3.93719748E-02 </BIAS>
+ <RMSE>   4.07269550E-03 </RMSE>
+ <CORR>  -2.67510538E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   3.46585289E-02 </BIAS>
+ <RMSE>   5.60689019E-03 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   13428.6455     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.45013179E-02 </BIAS>
+ <RMSE>   5.75577002E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   13508.8525     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.43898796E-02 </BIAS>
+ <RMSE>   5.85127436E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   13454.1992     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   3.42488736E-02 </BIAS>
+ <RMSE>   6.02081465E-03 </RMSE>
+ <CORR>   29605.1680     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.95589063E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   2.66870111E-03 </MEAN>
+ <STDV>  -3.26787799E-16 </STDV>
+ <BIAS>   3.35987210E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.98982430E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   3.09424829E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   11625.1055     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.11861448E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   11636.0791     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.05109974E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   11595.6816     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   2.95347478E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   22404.2852     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.69138164E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>REF</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   3.85289517E-04 </MEAN>
+ <STDV>  -2.35126986E-15 </STDV>
+ <BIAS>   5.63921174E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.26600790E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   5.65514481E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   14685.1279     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.61447488E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   14667.7314     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.54019166E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   14706.1738     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   5.68669150E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   35164.8516     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.80392215E-04 </MEAN_OBS>
+ <STDV_OBS>   4.67010448E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.62184743E-04 </MEAN>
+ <STDV>  -6.98985056E-15 </STDV>
+ <BIAS>   1.81247015E-02 </BIAS>
+ <RMSE>  -4.33487212E-03 </RMSE>
+ <CORR>  -6.99403067E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   1.77681260E-02 </BIAS>
+ <RMSE>  -4.44188714E-03 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   14521.0801     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.77394915E-02 </BIAS>
+ <RMSE>  -4.44432255E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   14549.2070     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.77610312E-02 </BIAS>
+ <RMSE>  -4.44348063E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   14522.0430     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   1.77662857E-02 </BIAS>
+ <RMSE>  -4.44435468E-03 </RMSE>
+ <CORR>   31078.7051     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   9.32283252E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   5.70650073E-03 </MEAN>
+ <STDV>  -2.35092068E-15 </STDV>
+ <BIAS>   9.75468606E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.67731148E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   9.32435691E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   14585.2510     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.31871161E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   14622.4180     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.31800976E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   14588.0742     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   9.31521282E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   31109.3281     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.105518341     </MEAN_OBS>
+ <STDV_OBS>   1.09584308     </STDV_OBS>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>REF</NAME>
+ <NUM>         598 </NUM>
+ <MEAN>  0.142048895     </MEAN>
+ <STDV>  -3.28743175E-16 </STDV>
+ <BIAS>   1.20290101     </BIAS>
+ <RMSE>   2.18026210E-02 </RMSE>
+ <CORR>  -6.99403067E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         598 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   1.01536572     </BIAS>
+ <RMSE>   6.50132122E-03 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         598 </NUM>
+ <MEAN>   9813.21680     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.999539435     </BIAS>
+ <RMSE>   9.25881974E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         598 </NUM>
+ <MEAN>   9732.55469     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.00024319     </BIAS>
+ <RMSE>   9.16147139E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         598 </NUM>
+ <MEAN>   9709.41211     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   1.11545229     </BIAS>
+ <RMSE>   6.98833261E-03 </RMSE>
+ <CORR>   14844.8223     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.245874375     </MEAN_OBS>
+ <STDV_OBS>   1.46851027     </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>REF</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>  0.212860093     </MEAN>
+ <STDV>  -2.67731148E-15 </STDV>
+ <BIAS>   1.64063740     </BIAS>
+ <RMSE>   7.52367973E-02 </RMSE>
+ <CORR>  -3.26789546E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   1.42604983     </BIAS>
+ <RMSE>   8.58564675E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   22981.9414     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41087091     </BIAS>
+ <RMSE>   8.52234811E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   22559.1484     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.50790989     </BIAS>
+ <RMSE>   8.53800550E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   22899.1172     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   1.48047256     </BIAS>
+ <RMSE>   7.28728250E-02 </RMSE>
+ <CORR>   30577.5352     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.89054664E-02 </MEAN_OBS>
+ <STDV_OBS>  0.509925008     </STDV_OBS>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>REF</NAME>
+ <NUM>         603 </NUM>
+ <MEAN>   5.66432253E-02 </MEAN>
+ <STDV>  -3.26596555E-16 </STDV>
+ <BIAS>  0.528325796     </BIAS>
+ <RMSE>   3.28926928E-02 </RMSE>
+ <CORR>  -3.29023913E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         603 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.504447341     </BIAS>
+ <RMSE>   5.50725237E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         603 </NUM>
+ <MEAN>  0.215934590     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.512674510     </BIAS>
+ <RMSE>   5.42385653E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         603 </NUM>
+ <MEAN>  0.217819259     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.513791978     </BIAS>
+ <RMSE>   5.31822741E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         603 </NUM>
+ <MEAN>  0.219358772     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.510696888     </BIAS>
+ <RMSE>   4.81656864E-02 </RMSE>
+ <CORR>  0.230245277     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.13013647E-02 </MEAN_OBS>
+ <STDV_OBS>  0.435726672     </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>REF</NAME>
+ <NUM>         584 </NUM>
+ <MEAN>   5.01127876E-02 </MEAN>
+ <STDV>  -2.34895408E-15 </STDV>
+ <BIAS>  0.474031955     </BIAS>
+ <RMSE>   7.93465041E-03 </RMSE>
+ <CORR>  -6.98983785E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         584 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.466562510     </BIAS>
+ <RMSE>   6.84906030E-04 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         584 </NUM>
+ <MEAN>   17131.3066     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.451676100     </BIAS>
+ <RMSE>   1.17614015E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         584 </NUM>
+ <MEAN>   17306.2168     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.452630609     </BIAS>
+ <RMSE>   5.49637247E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         584 </NUM>
+ <MEAN>   16860.8184     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.439471871     </BIAS>
+ <RMSE>   1.34134316E-03 </RMSE>
+ <CORR>   27313.9160     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.63265280E-02 </MEAN_OBS>
+ <STDV_OBS>  0.444520086     </STDV_OBS>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>REF</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   6.08007014E-02 </MEAN>
+ <STDV>  -2.34896128E-15 </STDV>
+ <BIAS>  0.473519593     </BIAS>
+ <RMSE>   9.01602767E-03 </RMSE>
+ <CORR>  -3.26569053E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.444584399     </BIAS>
+ <RMSE>   1.20643731E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   20478.4609     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.442518264     </BIAS>
+ <RMSE>   1.18067004E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   20641.5781     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.450556815     </BIAS>
+ <RMSE>   1.16613228E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   20600.5156     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.449940711     </BIAS>
+ <RMSE>   1.12792086E-02 </RMSE>
+ <CORR>   26861.3809     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.75510177E-02 </MEAN_OBS>
+ <STDV_OBS>  0.408010989     </STDV_OBS>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>REF</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   4.90196683E-02 </MEAN>
+ <STDV>  -2.67731148E-15 </STDV>
+ <BIAS>  0.438241005     </BIAS>
+ <RMSE>   2.42910869E-02 </RMSE>
+ <CORR>  -3.28743175E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.407228619     </BIAS>
+ <RMSE>   2.63629705E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   18452.0977     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.417403996     </BIAS>
+ <RMSE>   2.36823801E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   18480.5020     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.415349990     </BIAS>
+ <RMSE>   2.54096687E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   18527.8223     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.416995823     </BIAS>
+ <RMSE>   2.43905373E-02 </RMSE>
+ <CORR>   28891.1172     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.19211847E-02 </MEAN_OBS>
+ <STDV_OBS>  0.684871256     </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>REF</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   9.83119309E-02 </MEAN>
+ <STDV>  -3.28990694E-16 </STDV>
+ <BIAS>  0.657936454     </BIAS>
+ <RMSE>  -5.24858646E-02 </RMSE>
+ <CORR>  -3.26879279E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.731566906     </BIAS>
+ <RMSE>  -4.30047661E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   15935.0762     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.699139178     </BIAS>
+ <RMSE>  -4.37313095E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   15717.3398     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.722632885     </BIAS>
+ <RMSE>  -4.57647480E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   16001.0186     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.716214299     </BIAS>
+ <RMSE>  -4.53509614E-02 </RMSE>
+ <CORR>   25212.5742     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.66666731E-02 </MEAN_OBS>
+ <STDV_OBS>  0.407950908     </STDV_OBS>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   4.88141924E-02 </MEAN>
+ <STDV>  -3.26789546E-16 </STDV>
+ <BIAS>  0.418453664     </BIAS>
+ <RMSE>   4.49699201E-02 </RMSE>
+ <CORR>  -6.99403067E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.394449353     </BIAS>
+ <RMSE>   5.95444664E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   17624.5156     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.393222660     </BIAS>
+ <RMSE>   5.96196353E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   17457.9727     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.397874415     </BIAS>
+ <RMSE>   5.80157451E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   17475.7637     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.409659177     </BIAS>
+ <RMSE>   5.68408854E-02 </RMSE>
+ <CORR>   25809.4688     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.81045828E-02 </MEAN_OBS>
+ <STDV_OBS>  0.412472129     </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   5.58186658E-02 </MEAN>
+ <STDV>  -3.26879279E-16 </STDV>
+ <BIAS>  0.428101361     </BIAS>
+ <RMSE>  0.108702488     </RMSE>
+ <CORR>  -3.29006126E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.408167869     </BIAS>
+ <RMSE>  0.110286601     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16798.9297     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.427506089     </BIAS>
+ <RMSE>  0.112639233     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16804.3652     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.419891328     </BIAS>
+ <RMSE>  0.106679492     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16806.0371     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.417528093     </BIAS>
+ <RMSE>  0.108976349     </RMSE>
+ <CORR>   29833.0098     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.57474750E-02 </MEAN_OBS>
+ <STDV_OBS>  0.482934535     </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>REF</NAME>
+ <NUM>         602 </NUM>
+ <MEAN>   6.86810613E-02 </MEAN>
+ <STDV>  -2.35092745E-15 </STDV>
+ <BIAS>  0.514460444     </BIAS>
+ <RMSE>  -1.64054763E-02 </RMSE>
+ <CORR>  -3.26596555E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         602 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.547264576     </BIAS>
+ <RMSE>  -1.94772705E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         602 </NUM>
+ <MEAN>   18628.8965     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.532054722     </BIAS>
+ <RMSE>  -2.04311255E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         602 </NUM>
+ <MEAN>   18328.3477     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.550743878     </BIAS>
+ <RMSE>  -1.79947205E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         602 </NUM>
+ <MEAN>   18486.7148     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.534607351     </BIAS>
+ <RMSE>  -1.91526730E-02 </RMSE>
+ <CORR>   29570.6113     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.35690195E-02 </MEAN_OBS>
+ <STDV_OBS>  0.400455922     </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>REF</NAME>
+ <NUM>         594 </NUM>
+ <MEAN>   4.22694646E-02 </MEAN>
+ <STDV>  -3.29006126E-16 </STDV>
+ <BIAS>  0.362684727     </BIAS>
+ <RMSE>  0.169031009     </RMSE>
+ <CORR>  -6.99376385E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         594 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.370010734     </BIAS>
+ <RMSE>  0.166168734     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         594 </NUM>
+ <MEAN>   13068.4355     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.366163760     </BIAS>
+ <RMSE>  0.164322123     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         594 </NUM>
+ <MEAN>   13190.4385     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.390035003     </BIAS>
+ <RMSE>  0.166058317     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         594 </NUM>
+ <MEAN>   12866.2998     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.396193892     </BIAS>
+ <RMSE>  0.164814189     </RMSE>
+ <CORR>   14985.6260     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.52233760E-02 </MEAN_OBS>
+ <STDV_OBS>  0.146867484     </STDV_OBS>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>REF</NAME>
+ <NUM>         582 </NUM>
+ <MEAN>   1.09751588E-02 </MEAN>
+ <STDV>  -3.26790340E-16 </STDV>
+ <BIAS>  0.271465987     </BIAS>
+ <RMSE>  -1.17184147E-02 </RMSE>
+ <CORR>  -2.35119998E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         582 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.262508035     </BIAS>
+ <RMSE>  -1.36149768E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         582 </NUM>
+ <MEAN>   4.50053692     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.265200704     </BIAS>
+ <RMSE>  -1.21382885E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         582 </NUM>
+ <MEAN>   4.69026327     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.266414285     </BIAS>
+ <RMSE>  -1.17791379E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         582 </NUM>
+ <MEAN>   4.74636936     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.264776915     </BIAS>
+ <RMSE>  -1.18353944E-02 </RMSE>
+ <CORR>   7.44187546     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.90196096E-03 </MEAN_OBS>
+ <STDV_OBS>  0.320299387     </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.99374105E-02 </MEAN>
+ <STDV>  -6.98983701E-15 </STDV>
+ <BIAS>  0.344370544     </BIAS>
+ <RMSE>  -4.23591994E-02 </RMSE>
+ <CORR>  -3.26787005E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.334301323     </BIAS>
+ <RMSE>  -4.32886332E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   18475.0449     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.333722681     </BIAS>
+ <RMSE>  -4.36438210E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   18567.7949     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.328273356     </BIAS>
+ <RMSE>  -4.42396812E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   18334.5918     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.325379044     </BIAS>
+ <RMSE>  -4.44735289E-02 </RMSE>
+ <CORR>   29770.0195     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.63014042E-02 </MEAN_OBS>
+ <STDV_OBS>  0.701945901     </STDV_OBS>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>REF</NAME>
+ <NUM>         584 </NUM>
+ <MEAN>  0.111939862     </MEAN>
+ <STDV>  -2.35119321E-15 </STDV>
+ <BIAS>  0.776606619     </BIAS>
+ <RMSE>  -1.83418673E-02 </RMSE>
+ <CORR>  -3.26633825E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         584 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.747790337     </BIAS>
+ <RMSE>  -1.86073314E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         584 </NUM>
+ <MEAN>   14222.0586     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.723222971     </BIAS>
+ <RMSE>  -2.16615628E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         584 </NUM>
+ <MEAN>   14406.5322     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.735491812     </BIAS>
+ <RMSE>  -2.16257069E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         584 </NUM>
+ <MEAN>   14269.4795     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.710236013     </BIAS>
+ <RMSE>  -1.94273628E-02 </RMSE>
+ <CORR>   34932.9844     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.111230373     </STDV_OBS>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   9.88113694E-03 </MEAN>
+ <STDV>  -3.26787005E-16 </STDV>
+ <BIAS>  0.130861446     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.35127664E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.110839762     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20760.4277     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.115142711     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20239.8828     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.112617515     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20435.6250     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.111139461     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   26678.1348     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.89353223E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   1.95845310E-03 </MEAN>
+ <STDV>  -6.98985056E-15 </STDV>
+ <BIAS>   3.11786085E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.28743228E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   4.00249548E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   12273.8916     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.93612199E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   12422.7490     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.90193164E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   12463.7764     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   3.89034972E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   21343.1387     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.41176398E-03 </MEAN_OBS>
+ <STDV_OBS>  0.243964523     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   2.85211299E-02 </MEAN>
+ <STDV>  -2.67510538E-15 </STDV>
+ <BIAS>  0.255428076     </BIAS>
+ <RMSE>   6.56833574E-02 </RMSE>
+ <CORR>  -3.26879279E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.242893308     </BIAS>
+ <RMSE>   6.35529682E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   14787.4062     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.243462697     </BIAS>
+ <RMSE>   6.30014241E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   14804.9941     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.241576493     </BIAS>
+ <RMSE>   6.40496612E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   14700.8096     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.243464753     </BIAS>
+ <RMSE>   6.30594790E-02 </RMSE>
+ <CORR>   32195.0820     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.92610852E-04 </MEAN_OBS>
+ <STDV_OBS>   1.99779794E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>REF</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   1.54480594E-03 </MEAN>
+ <STDV>  -3.28744075E-16 </STDV>
+ <BIAS>   2.66673863E-02 </BIAS>
+ <RMSE>  -5.45449182E-03 </RMSE>
+ <CORR>  -2.35092068E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   2.99536418E-02 </BIAS>
+ <RMSE>  -5.71154291E-03 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   18650.7695     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.31392197E-02 </BIAS>
+ <RMSE>  -5.94439171E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   18913.9668     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06404869E-02 </BIAS>
+ <RMSE>  -5.38880890E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   18998.7910     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   2.11897288E-02 </BIAS>
+ <RMSE>  -5.44498395E-03 </RMSE>
+ <CORR>   34223.9844     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.68019752E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>REF</NAME>
+ <NUM>         579 </NUM>
+ <MEAN>   2.75555858E-03 </MEAN>
+ <STDV>  -3.26879279E-16 </STDV>
+ <BIAS>   3.92774418E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.29006126E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         579 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   3.67086828E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         579 </NUM>
+ <MEAN>   14675.7490     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.67996171E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         579 </NUM>
+ <MEAN>   14720.9482     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.66161652E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         579 </NUM>
+ <MEAN>   14597.5820     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   3.67701836E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   34255.8672     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.92156933E-03 </MEAN_OBS>
+ <STDV_OBS>  0.226450488     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   2.35011261E-02 </MEAN>
+ <STDV>  -6.99403067E-15 </STDV>
+ <BIAS>  0.221137106     </BIAS>
+ <RMSE>   3.19161899E-02 </RMSE>
+ <CORR>  -3.26790340E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.227244720     </BIAS>
+ <RMSE>   3.04578282E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   15972.3057     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.227175146     </BIAS>
+ <RMSE>   3.04827187E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16002.6260     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.226593629     </BIAS>
+ <RMSE>   3.06367353E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16001.8262     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.226953581     </BIAS>
+ <RMSE>   3.06282509E-02 </RMSE>
+ <CORR>   31928.8770     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.59477173E-03 </MEAN_OBS>
+ <STDV_OBS>   9.75993052E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   1.05347428E-02 </MEAN>
+ <STDV>  -3.29006126E-16 </STDV>
+ <BIAS>  0.109517127     </BIAS>
+ <RMSE>  -1.38880899E-02 </RMSE>
+ <CORR>  -2.35092068E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   9.74659324E-02 </BIAS>
+ <RMSE>  -1.42953126E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16098.3691     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.85052139E-02 </BIAS>
+ <RMSE>  -1.43818660E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16341.0293     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.100838423     </BIAS>
+ <RMSE>  -1.45603819E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16358.8418     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.101448663     </BIAS>
+ <RMSE>  -1.46147525E-02 </RMSE>
+ <CORR>   34468.5391     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.04906922E-02 </MEAN_OBS>
+ <STDV_OBS>  0.319137663     </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>REF</NAME>
+ <NUM>         591 </NUM>
+ <MEAN>   3.99182811E-02 </MEAN>
+ <STDV>  -3.26787799E-16 </STDV>
+ <BIAS>  0.319502532     </BIAS>
+ <RMSE>   2.65701339E-02 </RMSE>
+ <CORR>  -2.35126986E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         591 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.323184341     </BIAS>
+ <RMSE>   2.72182971E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         591 </NUM>
+ <MEAN>   20312.6094     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.325263292     </BIAS>
+ <RMSE>   2.64329836E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         591 </NUM>
+ <MEAN>   20421.8164     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.325145900     </BIAS>
+ <RMSE>   2.63952222E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         591 </NUM>
+ <MEAN>   20429.1582     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.323151678     </BIAS>
+ <RMSE>   2.62932144E-02 </RMSE>
+ <CORR>   38088.5000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.22875739E-03 </MEAN_OBS>
+ <STDV_OBS>  0.177177936     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   1.62140001E-02 </MEAN>
+ <STDV>  -6.99404422E-15 </STDV>
+ <BIAS>  0.202985466     </BIAS>
+ <RMSE>  -1.73590630E-02 </RMSE>
+ <CORR>  -3.26789546E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.180890143     </BIAS>
+ <RMSE>  -1.82615425E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   17264.4512     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.179917023     </BIAS>
+ <RMSE>  -1.82595793E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   17561.0020     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.179174647     </BIAS>
+ <RMSE>  -1.81231108E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   17413.7227     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.179448903     </BIAS>
+ <RMSE>  -1.82096660E-02 </RMSE>
+ <CORR>   31570.8887     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   9.59865302E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   8.99286661E-03 </MEAN>
+ <STDV>  -2.67510538E-15 </STDV>
+ <BIAS>  0.106594697     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.34896085E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   9.61491093E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16612.1777     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.59169418E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16987.5469     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.54441205E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16695.7949     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   9.59080756E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   29991.9434     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.80392192E-03 </MEAN_OBS>
+ <STDV_OBS>  0.303079545     </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.63378264E-02 </MEAN>
+ <STDV>  -3.28744022E-16 </STDV>
+ <BIAS>  0.294350922     </BIAS>
+ <RMSE>  -3.04732658E-02 </RMSE>
+ <CORR>  -2.35092745E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.318031669     </BIAS>
+ <RMSE>  -2.91221999E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20134.0625     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.315126628     </BIAS>
+ <RMSE>  -2.91694626E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20368.1152     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.314912289     </BIAS>
+ <RMSE>  -2.92524267E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20584.9258     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.313351989     </BIAS>
+ <RMSE>  -2.94130314E-02 </RMSE>
+ <CORR>   33475.0273     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   8.95426422E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   5.54111414E-03 </MEAN>
+ <STDV>  -3.26612834E-16 </STDV>
+ <BIAS>   9.43313241E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.26789546E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   8.95455927E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   19276.6445     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.95017534E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   19230.7520     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.94714370E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   19097.8652     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   8.94694552E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   35933.0977     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.44557757E-02 </MEAN_OBS>
+ <STDV_OBS>  0.306736559     </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>REF</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   2.81708799E-02 </MEAN>
+ <STDV>  -6.99403067E-15 </STDV>
+ <BIAS>  0.340692371     </BIAS>
+ <RMSE>   2.13761013E-02 </RMSE>
+ <CORR>  -2.34896085E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.316836447     </BIAS>
+ <RMSE>   2.25073844E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   14037.3057     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.320469111     </BIAS>
+ <RMSE>   2.18954794E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   13661.2148     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.321017146     </BIAS>
+ <RMSE>   2.19180156E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         588 </NUM>
+ <MEAN>   14050.7676     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.323517203     </BIAS>
+ <RMSE>   2.19414700E-02 </RMSE>
+ <CORR>   17349.3184     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.53756400E-02 </MEAN_OBS>
+ <STDV_OBS>  0.360524237     </STDV_OBS>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>REF</NAME>
+ <NUM>         599 </NUM>
+ <MEAN>   3.94102521E-02 </MEAN>
+ <STDV>  -3.28743175E-16 </STDV>
+ <BIAS>  0.389043421     </BIAS>
+ <RMSE>  -1.67156160E-02 </RMSE>
+ <CORR>  -2.35092745E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         599 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.387994766     </BIAS>
+ <RMSE>  -1.65433232E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         599 </NUM>
+ <MEAN>   18584.0703     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.384693414     </BIAS>
+ <RMSE>  -1.65211018E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         599 </NUM>
+ <MEAN>   18490.7734     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.380667686     </BIAS>
+ <RMSE>  -1.66416559E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         599 </NUM>
+ <MEAN>   18306.9902     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.379494488     </BIAS>
+ <RMSE>  -1.64089371E-02 </RMSE>
+ <CORR>   32215.3477     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.53594790E-04 </MEAN_OBS>
+ <STDV_OBS>  0.184865877     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   1.71175953E-02 </MEAN>
+ <STDV>  -2.34896085E-15 </STDV>
+ <BIAS>  0.191251114     </BIAS>
+ <RMSE>   1.86701659E-02 </RMSE>
+ <CORR>  -3.26659685E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.185087830     </BIAS>
+ <RMSE>   1.97040159E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   18873.5488     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.184810221     </BIAS>
+ <RMSE>   1.99856982E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   19725.4629     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.184737250     </BIAS>
+ <RMSE>   1.97069757E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20010.1074     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.184731260     </BIAS>
+ <RMSE>   1.97673347E-02 </RMSE>
+ <CORR>   31465.4062     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.80392215E-04 </MEAN_OBS>
+ <STDV_OBS>  0.151467904     </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   1.24082826E-02 </MEAN>
+ <STDV>  -6.99404422E-15 </STDV>
+ <BIAS>  0.160009265     </BIAS>
+ <RMSE>  -8.32869206E-03 </RMSE>
+ <CORR>  -3.26787005E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.151071638     </BIAS>
+ <RMSE>  -8.02628603E-03 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   18294.7344     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.151135981     </BIAS>
+ <RMSE>  -8.04010872E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   18337.2617     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.151479736     </BIAS>
+ <RMSE>  -8.10455531E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   18228.2617     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.151744679     </BIAS>
+ <RMSE>  -8.15791544E-03 </RMSE>
+ <CORR>   28319.2656     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.68067229E-04 </MEAN_OBS>
+ <STDV_OBS>  0.165739164     </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>REF</NAME>
+ <NUM>         595 </NUM>
+ <MEAN>   1.57249589E-02 </MEAN>
+ <STDV>  -2.67731148E-15 </STDV>
+ <BIAS>  0.173365474     </BIAS>
+ <RMSE>   2.45726071E-02 </RMSE>
+ <CORR>  -2.34895408E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         595 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.170651823     </BIAS>
+ <RMSE>   2.44084690E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         595 </NUM>
+ <MEAN>   13525.0654     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.168249547     </BIAS>
+ <RMSE>   2.50163078E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         595 </NUM>
+ <MEAN>   13008.3359     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.166768208     </BIAS>
+ <RMSE>   2.51856986E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         595 </NUM>
+ <MEAN>   13120.5439     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.165546000     </BIAS>
+ <RMSE>   2.55060401E-02 </RMSE>
+ <CORR>   14787.2559     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.63398698E-04 </MEAN_OBS>
+ <STDV_OBS>  0.139301866     </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   1.56775229E-02 </MEAN>
+ <STDV>  -3.28744022E-16 </STDV>
+ <BIAS>  0.154313251     </BIAS>
+ <RMSE>  0.168693066     </RMSE>
+ <CORR>  -3.26600790E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.135369822     </BIAS>
+ <RMSE>  0.192342535     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   15855.1797     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.135346338     </BIAS>
+ <RMSE>  0.192125797     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   15751.0117     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.138009310     </BIAS>
+ <RMSE>  0.188783094     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   15570.0508     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.138473094     </BIAS>
+ <RMSE>  0.191061720     </RMSE>
+ <CORR>   17462.7188     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.37438274E-03 </MEAN_OBS>
+ <STDV_OBS>  0.289826185     </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>REF</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   3.08845975E-02 </MEAN>
+ <STDV>  -3.26612834E-16 </STDV>
+ <BIAS>  0.303416610     </BIAS>
+ <RMSE>  0.106419697     </RMSE>
+ <CORR>  -3.26787005E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.296408713     </BIAS>
+ <RMSE>  0.104694784     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   19591.2266     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.298853755     </BIAS>
+ <RMSE>  0.101952933     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   19802.5586     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.296758384     </BIAS>
+ <RMSE>  0.105199613     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   19491.7402     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.287904382     </BIAS>
+ <RMSE>  0.109886967     </RMSE>
+ <CORR>   27275.7812     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.12745101E-02 </MEAN_OBS>
+ <STDV_OBS>   4.14469419E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.22489999E-04 </MEAN>
+ <STDV>  -6.98983701E-15 </STDV>
+ <BIAS>   8.82059932E-02 </BIAS>
+ <RMSE>  -1.64015684E-02 </RMSE>
+ <CORR>  -2.35119321E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   8.80980119E-02 </BIAS>
+ <RMSE>  -1.64359976E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20417.5488     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.80990997E-02 </BIAS>
+ <RMSE>  -1.65732428E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20531.1914     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.81000981E-02 </BIAS>
+ <RMSE>  -1.68214478E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20505.5410     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   8.81025642E-02 </BIAS>
+ <RMSE>  -1.72279775E-02 </RMSE>
+ <CORR>   31561.5078     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.96721312E-03 </MEAN_OBS>
+ <STDV_OBS>   4.37884172E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>REF</NAME>
+ <NUM>         610 </NUM>
+ <MEAN>   5.03072224E-04 </MEAN>
+ <STDV>  -3.26787005E-16 </STDV>
+ <BIAS>   2.03406699E-02 </BIAS>
+ <RMSE>  -1.20995156E-02 </RMSE>
+ <CORR>  -3.26600790E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         610 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   2.01843027E-02 </BIAS>
+ <RMSE>  -1.15815578E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         610 </NUM>
+ <MEAN>   21544.9434     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.01872643E-02 </BIAS>
+ <RMSE>  -1.15235085E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         610 </NUM>
+ <MEAN>   21672.2461     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.02555563E-02 </BIAS>
+ <RMSE>  -1.14854621E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         610 </NUM>
+ <MEAN>   21691.1816     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   2.02656072E-02 </BIAS>
+ <RMSE>  -1.14599969E-02 </RMSE>
+ <CORR>   32410.5215     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.04575157E-02 </MEAN_OBS>
+ <STDV_OBS>   2.02275179E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   1.04040618E-03 </MEAN>
+ <STDV>  -2.35119998E-15 </STDV>
+ <BIAS>   7.46736303E-02 </BIAS>
+ <RMSE>  -1.26392953E-02 </RMSE>
+ <CORR>  -3.29042813E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   6.77149892E-02 </BIAS>
+ <RMSE>  -1.45623563E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16689.9180     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.77158162E-02 </BIAS>
+ <RMSE>  -1.45719163E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16530.6328     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.77157342E-02 </BIAS>
+ <RMSE>  -1.45725645E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   16739.3574     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   6.77156523E-02 </BIAS>
+ <RMSE>  -1.45809427E-02 </RMSE>
+ <CORR>   37038.4570     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.93377529E-04 </MEAN_OBS>
+ <STDV_OBS>   1.02704549E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>REF</NAME>
+ <NUM>         604 </NUM>
+ <MEAN>   8.88036506E-04 </MEAN>
+ <STDV>  -3.26600790E-16 </STDV>
+ <BIAS>   2.12969799E-02 </BIAS>
+ <RMSE>  -5.52899437E-03 </RMSE>
+ <CORR>  -2.34895450E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         604 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   2.01006979E-02 </BIAS>
+ <RMSE>  -4.98290965E-03 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         604 </NUM>
+ <MEAN>   18134.1914     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.01022457E-02 </BIAS>
+ <RMSE>  -4.98909736E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         604 </NUM>
+ <MEAN>   18183.2539     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.01021973E-02 </BIAS>
+ <RMSE>  -4.98870155E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         604 </NUM>
+ <MEAN>   17963.3594     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   2.01021992E-02 </BIAS>
+ <RMSE>  -4.98789968E-03 </RMSE>
+ <CORR>   32027.0586     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.20462012E-02 </MEAN_OBS>
+ <STDV_OBS>   3.99493519E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>REF</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   3.11802636E-04 </MEAN>
+ <STDV>  -3.29042813E-16 </STDV>
+ <BIAS>  0.107731685     </BIAS>
+ <RMSE>  -9.59932618E-03 </RMSE>
+ <CORR>  -6.98985056E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.107607611     </BIAS>
+ <RMSE>  -1.04110735E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   19033.9863     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.107606746     </BIAS>
+ <RMSE>  -1.02849202E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   19003.8926     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.107606702     </BIAS>
+ <RMSE>  -1.02835903E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         606 </NUM>
+ <MEAN>   19033.3887     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.107607260     </BIAS>
+ <RMSE>  -1.02888979E-02 </RMSE>
+ <CORR>   33146.3164     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.01503250E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   1.83149110E-04 </MEAN>
+ <STDV>  -3.29023913E-16 </STDV>
+ <BIAS>   5.35579911E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.67580186E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   3.01457453E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   18075.5586     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.01362900E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   18176.7578     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.01331119E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   18131.6367     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   3.01256799E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   32894.7734     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.84726152E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   2.73884484E-03 </MEAN>
+ <STDV>  -6.98985056E-15 </STDV>
+ <BIAS>   2.90910043E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -2.34895408E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   3.94980274E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   13953.3467     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.77751067E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   14052.0635     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.95585075E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   13991.2109     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   3.84411737E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   31112.1680     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.96540353E-02 </MEAN_OBS>
+ <STDV_OBS>   7.91511685E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>REF</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   7.40548538E-04 </MEAN>
+ <STDV>  -2.67580186E-15 </STDV>
+ <BIAS>  0.296919137     </BIAS>
+ <RMSE>  -9.21858381E-03 </RMSE>
+ <CORR>  -3.26612834E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.297494829     </BIAS>
+ <RMSE>  -6.43468602E-03 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   14082.4590     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.297152817     </BIAS>
+ <RMSE>  -8.26887880E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   14184.3975     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.297357112     </BIAS>
+ <RMSE>  -7.36229075E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         607 </NUM>
+ <MEAN>   14119.9053     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.296966702     </BIAS>
+ <RMSE>  -9.35605168E-03 </RMSE>
+ <CORR>   30069.0410     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.92417237E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>REF</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   3.18617647E-04 </MEAN>
+ <STDV>  -3.26616222E-16 </STDV>
+ <BIAS>   2.89717293E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.98983701E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   1.71153061E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   16710.6504     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.73414368E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   16796.0215     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.81601604E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         609 </NUM>
+ <MEAN>   16813.1191     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   3.92094906E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   33490.7656     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.76667045E-02 </MEAN_OBS>
+ <STDV_OBS>  0.425691277     </STDV_OBS>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>REF</NAME>
+ <NUM>         600 </NUM>
+ <MEAN>   4.14696708E-02 </MEAN>
+ <STDV>  -2.34896085E-15 </STDV>
+ <BIAS>  0.378148139     </BIAS>
+ <RMSE>   5.53371422E-02 </RMSE>
+ <CORR>  -2.34895450E-15 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         600 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>  0.404730946     </BIAS>
+ <RMSE>   2.58916281E-02 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         600 </NUM>
+ <MEAN>   15394.4863     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.392576337     </BIAS>
+ <RMSE>   2.82155722E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         600 </NUM>
+ <MEAN>   15523.1172     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.555531740     </BIAS>
+ <RMSE>   1.26511091E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         600 </NUM>
+ <MEAN>   15410.6455     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>  0.459083349     </BIAS>
+ <RMSE>   2.09074318E-02 </RMSE>
+ <CORR>   32643.3535     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.43137234E-03 </MEAN_OBS>
+ <STDV_OBS>   1.79505479E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>REF</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   9.05793800E-04 </MEAN>
+ <STDV>  -6.98983701E-15 </STDV>
+ <BIAS>   3.81150432E-02 </BIAS>
+ <RMSE>  -4.78825439E-03 </RMSE>
+ <CORR>  -3.26878485E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   3.57467756E-02 </BIAS>
+ <RMSE>  -3.48111498E-03 </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20268.1426     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.57467234E-02 </BIAS>
+ <RMSE>  -3.47970077E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20315.5254     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.57466899E-02 </BIAS>
+ <RMSE>  -3.47848772E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         612 </NUM>
+ <MEAN>   20268.6035     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   3.57465893E-02 </BIAS>
+ <RMSE>  -3.47329956E-03 </RMSE>
+ <CORR>   21928.8164     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   8.94097518E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>REF</NAME>
+ <NUM>         259 </NUM>
+ <MEAN>   8.26171483E-04 </MEAN>
+ <STDV>  -3.29023913E-16 </STDV>
+ <BIAS>   1.89661197E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.26659685E-16 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>sob12km_dt30min_1sigmao</NAME>
+ <NUM>         259 </NUM>
+ <MEAN>   3.40263293E-41 </MEAN>
+ <STDV>   3.40263293E-41 </STDV>
+ <BIAS>   8.92445538E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.40263293E-41 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>sob12km_dt30min_2sigmao</NAME>
+ <NUM>         259 </NUM>
+ <MEAN>  0.264909148     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.92414711E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>sob12km_dt30min_3sigmao</NAME>
+ <NUM>         259 </NUM>
+ <MEAN>  0.264719993     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.92604608E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>sob12km_dt30min_4sigmao</NAME>
+ <NUM>         259 </NUM>
+ <MEAN>  0.259466797     </MEAN>
+ <STDV>   1.10243651E+24 </STDV>
+ <BIAS>   8.92369822E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  0.259691775     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
